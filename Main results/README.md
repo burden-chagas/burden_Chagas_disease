@@ -1,0 +1,1 @@
+Main results for length of stay and total value of procedures, according to clinical form of disease.
